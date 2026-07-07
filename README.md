@@ -60,16 +60,17 @@ cd NoTo
 -  Commit your changes
    
 - Submit a pull request
-----
+---
 📜 License
    This project is licensed under the MIT License.
    You are free to use, modify, and distribute this project with attribution.
-----
+---
 📧 Contact
    For questions or collaboration, reach out at:
    Email: thotalakshmiprasanna1408@gmail.com
    GitHub:github.com/Lakshmi-14082005
-----
+---
 
 [ Watch the Previews https://github.com/user-attachments/assets/783abf28-372f-4f77-8af7-26a3f41b0836 ]
+[Watch the previews  https://lakshmi-14082005.github.io/NoTo-website/] ** interact with website**
 
