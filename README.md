@@ -1,13 +1,14 @@
+
+
 # NoTo
 
-NoTo is a web-based project designed to provide a simple, structured, and user-friendly interface. This repository contains the source code, assets, and documentation for the NoTo website.
+NoTo is a web-based project designed to provide a simple, structured, and user-friendly interface. This repository contains the source code, images, and documentation for the NoTo website.
 
 ---
 
 ## 📌 Project Overview
 - **Name:** NoTo
 - **Type:** Web Application
-- **Current Active Tab:** Home Page
 - **Technology Stack:** HTML, CSS
 
 ---
@@ -60,3 +61,7 @@ You are free to use, modify, and distribute this project with attribution.
 For questions or collaboration, reach out at:
 Email: thotalakshmiprasanna1408@gmail.com
 GitHub:github.com/Lakshmi-14082005
+
+
+[ Watch the Previews https://github.com/user-attachments/assets/783abf28-372f-4f77-8af7-26a3f41b0836 ]
+
